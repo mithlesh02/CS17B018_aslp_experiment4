@@ -30,6 +30,8 @@ LOOP1: addi $t1,$t1,1
 
 
 END:
+    jr $ra
+    .end
 
 
        
